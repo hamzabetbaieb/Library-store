@@ -9,7 +9,7 @@
   "author": "Hamza Betbaieb",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^5.1.1",
+    "bcrypt": "^6.0.0",
     "connect-flash": "^0.1.1",
     "connect-mongodb-session": "^5.0.0",
     "ejs": "^3.1.9",
